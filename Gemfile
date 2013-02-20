@@ -1,4 +1,5 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem "chefspec", "~>0.9"
+gem "chef"
+gem "chefspec"
